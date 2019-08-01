@@ -1,0 +1,11 @@
+/Users/barr/Documents/Code/myDotNetApp/bin/Debug/netcoreapp2.2/myDotNetApp.deps.json
+/Users/barr/Documents/Code/myDotNetApp/bin/Debug/netcoreapp2.2/myDotNetApp.runtimeconfig.json
+/Users/barr/Documents/Code/myDotNetApp/bin/Debug/netcoreapp2.2/myDotNetApp.runtimeconfig.dev.json
+/Users/barr/Documents/Code/myDotNetApp/bin/Debug/netcoreapp2.2/myDotNetApp.dll
+/Users/barr/Documents/Code/myDotNetApp/bin/Debug/netcoreapp2.2/myDotNetApp.pdb
+/Users/barr/Documents/Code/myDotNetApp/obj/Debug/netcoreapp2.2/myDotNetApp.csprojAssemblyReference.cache
+/Users/barr/Documents/Code/myDotNetApp/obj/Debug/netcoreapp2.2/myDotNetApp.csproj.CoreCompileInputs.cache
+/Users/barr/Documents/Code/myDotNetApp/obj/Debug/netcoreapp2.2/myDotNetApp.AssemblyInfoInputs.cache
+/Users/barr/Documents/Code/myDotNetApp/obj/Debug/netcoreapp2.2/myDotNetApp.AssemblyInfo.cs
+/Users/barr/Documents/Code/myDotNetApp/obj/Debug/netcoreapp2.2/myDotNetApp.dll
+/Users/barr/Documents/Code/myDotNetApp/obj/Debug/netcoreapp2.2/myDotNetApp.pdb
